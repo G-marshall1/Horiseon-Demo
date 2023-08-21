@@ -46,6 +46,10 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+color: #98de7e;
+  }
+
 p {
     font-size: 16px;
 }
