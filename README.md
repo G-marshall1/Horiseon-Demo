@@ -27,6 +27,7 @@ No installation needed since it is a landing page that can be viewed here https:
 
 
 
+![01-html-css-git-homework-demo](https://github.com/G-marshall1/Horiseon-Demo/assets/122425742/ceba0c75-5172-42b5-a6da-df56c75e663b)
 
 
 
